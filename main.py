@@ -6,6 +6,7 @@ from discord.ext import commands
 from discord.ext.commands import Bot    #
 from discord import Game                #
 import datetime                         #
+import time
 
 BOT_PREFIX = (";;", ".c ")
 TOKEN = "NTQ2MjA1MDExNjA5MTI0ODY1.D0lECQ.f8SsnH7KsRaBgNQXUx6LfC8B78E"
